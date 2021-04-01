@@ -8,7 +8,6 @@ import 'enums.dart';
 void main() {
   runApp(MyApp());
 }
-//tempikan
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
